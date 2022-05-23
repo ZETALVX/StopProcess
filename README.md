@@ -8,6 +8,6 @@ With the following key combinations you can call up various functions:
 
 ALT GR + K - Stop the process of the selected application
 
-CTRL + P - Return and copy in clipboard the name process of the selected application
+CTRL + P - Return and copy in clipboard the process of the selected application
 
 ALT GR + P - Open a window the allow you to write the process you want to close
