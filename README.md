@@ -1,4 +1,4 @@
-STOP PROCESS
+StopProcess
 
 StopProcess is a program that allows you to know and immediately stop the process (s) of an application on windows OS.  
 
