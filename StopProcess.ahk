@@ -11,7 +11,7 @@ tooltip
 return
 
 ^<^>!p::
-inputbox, pse, Stop Process, Inser the process you want to stop:
+inputbox, pse, Stop Process, Insert the process you want to stop:
 if (errorlevel = 1)
 {
 return
